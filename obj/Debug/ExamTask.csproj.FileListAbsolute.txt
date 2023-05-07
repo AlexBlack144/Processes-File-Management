@@ -1,0 +1,22 @@
+C:\Users\Alex\source\repos\ExamTask\bin\Debug\ExamTask.exe.config
+C:\Users\Alex\source\repos\ExamTask\bin\Debug\ExamTask.exe
+C:\Users\Alex\source\repos\ExamTask\bin\Debug\ExamTask.pdb
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.Form1.resources
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.Properties.Resources.resources
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.exe
+C:\Users\Alex\source\repos\ExamTask\obj\Debug\ExamTask.pdb
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\bin\Debug\ExamTask.exe.config
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\bin\Debug\ExamTask.exe
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\bin\Debug\ExamTask.pdb
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.csproj.AssemblyReference.cache
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.csproj.SuggestedBindingRedirects.cache
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.Form1.resources
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.Properties.Resources.resources
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.csproj.GenerateResource.cache
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.csproj.CoreCompileInputs.cache
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.exe
+E:\Лёша\Шаг\Портфолио\C#, Процессы(Exam)\ExamTask (1)\ExamTask\obj\Debug\ExamTask.pdb
